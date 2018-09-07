@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Discord-Auto-PMER\Discord-Auto-PMER\bin\Debug\Discord-Auto-PMER.exe.config
+C:\Users\User\source\repos\Discord-Auto-PMER\Discord-Auto-PMER\bin\Debug\Discord-Auto-PMER.exe
+C:\Users\User\source\repos\Discord-Auto-PMER\Discord-Auto-PMER\bin\Debug\Discord-Auto-PMER.pdb
+C:\Users\User\source\repos\Discord-Auto-PMER\Discord-Auto-PMER\bin\Debug\SuperEngine.xNet.dll
+C:\Users\User\source\repos\Discord-Auto-PMER\Discord-Auto-PMER\obj\Debug\Discord-Auto-PMER.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Discord-Auto-PMER\Discord-Auto-PMER\obj\Debug\Discord-Auto-PMER.csproj.CopyComplete
+C:\Users\User\source\repos\Discord-Auto-PMER\Discord-Auto-PMER\obj\Debug\Discord-Auto-PMER.exe
+C:\Users\User\source\repos\Discord-Auto-PMER\Discord-Auto-PMER\obj\Debug\Discord-Auto-PMER.pdb
